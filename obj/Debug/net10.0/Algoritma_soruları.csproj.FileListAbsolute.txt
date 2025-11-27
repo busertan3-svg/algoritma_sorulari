@@ -1,0 +1,14 @@
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\bin\Debug\net10.0\Algoritma_soruları.exe
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\bin\Debug\net10.0\Algoritma_soruları.deps.json
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\bin\Debug\net10.0\Algoritma_soruları.runtimeconfig.json
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\bin\Debug\net10.0\Algoritma_soruları.dll
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\bin\Debug\net10.0\Algoritma_soruları.pdb
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\obj\Debug\net10.0\Algoritma_soruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\obj\Debug\net10.0\Algoritma_soruları.AssemblyInfoInputs.cache
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\obj\Debug\net10.0\Algoritma_soruları.AssemblyInfo.cs
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\obj\Debug\net10.0\Algoritma_soruları.csproj.CoreCompileInputs.cache
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\obj\Debug\net10.0\Algoritma_soruları.dll
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\obj\Debug\net10.0\refint\Algoritma_soruları.dll
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\obj\Debug\net10.0\Algoritma_soruları.pdb
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\obj\Debug\net10.0\Algoritma_soruları.genruntimeconfig.cache
+C:\Users\busenur.ertan\Desktop\Pratikler\Algoritma_soruları\obj\Debug\net10.0\ref\Algoritma_soruları.dll
